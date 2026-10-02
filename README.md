@@ -23,7 +23,7 @@ WebInfo is a powerful Python-based CLI reconnaissance tool that provides multipl
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/cybergana-web/Web-Info.git
+git clone https://github.com/argcyberskillhub/Web-Info.git
 cd Web-Info
 ```
 
